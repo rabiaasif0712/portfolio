@@ -3,7 +3,7 @@
 ### 💻 Frontend Developer | Creative Web Developer
 
 <p align="center">
-  <img src="./profile.png" width="160" height="160" alt="Rabia's Profile Picture" />
+  <img src="./profile.png.jpeg" width="160" height="160" alt="Rabia's Profile Picture" />
 </p>
 
 <p align="center">
