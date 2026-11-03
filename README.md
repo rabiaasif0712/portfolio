@@ -1,90 +1,94 @@
-# 👋 Hi, I'm Rabia Asif
+ 👋 Hi, I'm Rabia Asif
 
-### 💻 Frontend Developer | Creative Web Developer
-
-<p align="center">
-  <img src="./profile.png.jpeg" width="160" height="160" alt="Rabia's Profile Picture" />
-</p>
-
-<p align="center">
-  <b>Building modern, responsive and user-friendly web experiences.</b>
-</p>
-
-<p align="center">
-  Turning creative ideas into beautiful digital experiences using modern frontend technologies.
-</p>
-
-<p align="center">
-  <a href="https://github.com/rabiaasif0712">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+Full-Stack AI Engineer passionate about building innovative, scalable, and user-friendly web applications. Turning ideas into impactful digital experiences.
 
 ---
 
-## ✨ About Me
+ ✨ About Me
 
-I'm Rabia, a Frontend Developer passionate about creating clean, modern, and responsive websites.
 
-- 🌱 Currently improving my frontend development skills.
-- 💻 Working with HTML, CSS, Tailwind CSS and JavaScript.
-- 🎨 Interested in modern UI/UX and responsive web design.
-- 🚀 Building projects to improve my development skills.
-- 🎯 My goal is to create high-quality web experiences.
+- 🌱 Currently learning and exploring Full-Stack Web Development (MERN Stack).
+- 💻 Working with HTML, CSS, JavaScript, Tailwind CSS, and React.js.
+- ⚙️ Learning backend development with Node.js and Express.js.
+- 🗄️ Exploring databases like MySQL and PostgreSQL.
+- 🚀 Building real-world projects to improve my development skills.
+- 🎯 My goal is to become a skilled Full-Stack Developer and build meaningful web applications.
+- 🤝 Always ready to learn new technologies and collaborate on interesting projects.
 
----
+💡 My Interests
 
-## 🛠️ Technologies & Tools
+- Frontend Development
+- Backend Development
+- UI/UX Design
+- Problem Solving
+- Learning New Technologies
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,git,github,vscode" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 01. Landing Page
-
-A modern and responsive landing page featuring clean typography, attractive layouts and a user-friendly interface.
-
-**Technologies:** HTML | CSS | Tailwind CSS
-
-- 🔗 [Source Code](https://github.com/rabiaasif0712/clipboard-landing-page-master)
-- 🌐 [Live Demo](https://rabiaasif0712.github.io/clipboard-landing-page-master/)
-
-### 02. Bento Grid
-
-A modern Bento Grid layout featuring creative card designs, structured content and responsive grid positioning.
-
-**Technologies:** HTML | CSS
-
-- 🔗 [Source Code](https://github.com/rabiaasif0712/bento-grid-main)
-- 🌐 [Live Demo](https://rabiaasif0712.github.io/bento-grid-main/)
-
-### 03. Upwork Clone
-
-A frontend clone inspired by Upwork, featuring a freelance marketplace interface and modern website layout.
-
-**Technologies:** HTML | CSS | Tailwind CSS | JavaScript
-
-- 🔗 [Source Code](https://github.com/rabiaasif0712/cloning-website-upwork)
-- 🌐 [Live Demo](https://rabiaasif0712.github.io/cloning-website-upwork/)
 
 ---
 
-## 🤝 Connect With Me
 
-<p align="center">
-  <a href="https://github.com/rabiaasif0712">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+🛠️ Tech Stack & Tools
+
+Here are the core programming languages, frameworks, databases, and developer tools I use to build web applications.
+
+🎨 Frontend Development
+
+- HTML5
+- CSS3
+- JavaScript
+- EJS (Embedded JavaScript Templates)
+
+⚙️ Backend & Runtime
+
+- Node.js
+- Express.js
+
+🗄️ Databases
+
+- SQL
+- MySQL
+- MongoDB
+
+💻 Developer Tools
+
+- Git
+- GitHub
+- Visual Studio Code
+- Postman
+- NPM
+---
+
+ 🚀 Featured Projects
+
+ 01. Landing Page
+
+A modern and responsive landing page.
+
+- [Source Code](https://github.com/rabiaasif0712/clipboard-landing-page-master)
+- [Live Demo](https://rabiaasif0712.github.io/clipboard-landing-page-master/)
+
+ 02. Bento Grid
+
+A responsive Bento Grid layout with modern card designs.
+
+- [Source Code](https://github.com/rabiaasif0712/bento-grid-main)
+- [Live Demo](https://rabiaasif0712.github.io/bento-grid-main/)
+
+ 03. Upwork Clone
+
+A freelance marketplace interface inspired by Upwork.
+
+- [Source Code](https://github.com/rabiaasif0712/cloning-website-upwork)
+- [Live Demo](https://rabiaasif0712.github.io/cloning-website-upwork/)
+
+---
+
+ 🤝 Connect With Me
+
+[GitHub](https://github.com/rabiaasif0712)
 
 ---
 
 <p align="center">
   <b>💜 Thanks for visiting my profile!</b>
-  <br/>
-  Let's build something amazing together.
 </p>
